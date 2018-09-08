@@ -1,0 +1,31 @@
+#headline {
+    padding: 20px;
+    margin: 20 200 20 200px;
+    background-color:white;
+}
+#title {
+    background-color: white;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 95px;
+    text-align: center;
+    letter-spacing: 0px;
+    padding: 25px;
+}
+body {
+    background-image: url(../images/circles.png)
+}
+.main-button-container {
+    margin: 25 450px;
+  }
+#martini img {
+    height: 170px;
+    width: 170px;
+    padding: 0px;
+
+}#content {
+    padding: 20px;
+    margin: 20 200 20 200px;
+    background-color:white;
+}
